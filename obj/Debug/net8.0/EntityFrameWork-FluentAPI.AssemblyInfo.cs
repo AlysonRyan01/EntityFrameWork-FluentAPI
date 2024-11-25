@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EntityFrameWork-FluentAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a838c8ffba8b5eed308d0406c40ad67f6b33e7ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a496c2d0688e66951013d04ce33fa6ece81b0bbd")]
 [assembly: System.Reflection.AssemblyProductAttribute("EntityFrameWork-FluentAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EntityFrameWork-FluentAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
